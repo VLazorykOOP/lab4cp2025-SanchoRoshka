@@ -1,0 +1,9 @@
+C:\Users\maria\OneDrive\Робочий стіл\Рошка\LR4\lr4\lr4\obj\Debug\lr4.csproj.AssemblyReference.cache
+C:\Users\maria\OneDrive\Робочий стіл\Рошка\LR4\lr4\lr4\obj\Debug\lr4.Properties.Resources.resources
+C:\Users\maria\OneDrive\Робочий стіл\Рошка\LR4\lr4\lr4\obj\Debug\lr4.csproj.GenerateResource.cache
+C:\Users\maria\OneDrive\Робочий стіл\Рошка\LR4\lr4\lr4\obj\Debug\lr4.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Робочий стіл\Рошка\LR4\lr4\lr4\bin\Debug\lr4.exe.config
+C:\Users\maria\OneDrive\Робочий стіл\Рошка\LR4\lr4\lr4\bin\Debug\lr4.exe
+C:\Users\maria\OneDrive\Робочий стіл\Рошка\LR4\lr4\lr4\bin\Debug\lr4.pdb
+C:\Users\maria\OneDrive\Робочий стіл\Рошка\LR4\lr4\lr4\obj\Debug\lr4.exe
+C:\Users\maria\OneDrive\Робочий стіл\Рошка\LR4\lr4\lr4\obj\Debug\lr4.pdb
